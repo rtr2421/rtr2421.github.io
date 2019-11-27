@@ -8,4 +8,7 @@
 
 ## Contact
 
-(Deanne Mahoney)[mailto:first2421@gmail.com]
+[Deanne Mahoney](mailto:first2421@gmail.com)
+
+## Other stuff
+[Developer page](/developers)
