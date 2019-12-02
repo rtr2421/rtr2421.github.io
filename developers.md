@@ -16,6 +16,7 @@ Create an account on [github.com](https://github.com) and give your userid to on
 * [Kinematics and odometry](https://docs.wpilib.org/en/latest/docs/software/kinematics-and-odometry/index.html) - have the robot understand where it is on the field
 * [PIDSubsystem](https://wpilib.screenstepslive.com/s/currentCS/m/cpp/l/241901-pidsubsystems-for-built-in-pid-control) - a class to drive a motor to a particular position using a PID
 * [Vision](https://docs.wpilib.org/en/latest/docs/software/vision-processing/index.html) - see especially the GRIP and RPi options
+* [Trajectory generation](https://docs.wpilib.org/en/latest/docs/software/wpilib-tools/path-planning/wpilib-trajectories/trajectorygeneration.html) - drive the robot smoothly from point A to point B
 
 ## Tools and Links
 
