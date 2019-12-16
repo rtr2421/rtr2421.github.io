@@ -2,9 +2,9 @@
 
 ## Upcoming meetings
 
-* Tuesday, Dec, 3, 7pm-9pm, build site
-* Tuesday, Dec. 10, 7pm-9pm, build site
 * Tuesday, Dec. 17, 7pm-9pm, build site
+* Saturday, Jan 4 2020 (morning) - Kickoff
+* Saturday, Jan 4 2020 1:30-5:30 pm - Kings Park Library for discussion of the game
 
 ## Contact
 
