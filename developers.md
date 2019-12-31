@@ -11,6 +11,7 @@ Create an account on [github.com](https://github.com) and give your userid to on
 
 ## Some particular topics to understand and get code from
 
+* [Getting started with FRC development](https://docs.wpilib.org/en/latest/docs/getting-started/getting-started-frc-control-system/intro.html)
 * [Command based programming](https://docs.wpilib.org/en/latest/docs/software/commandbased/index.html) - the basics of programming the bot.
 * [Changes to command based programming](https://docs.wpilib.org/en/latest/docs/software/commandbased/command-based-changes.html) - it all changes this year
 * [Kinematics and odometry](https://docs.wpilib.org/en/latest/docs/software/kinematics-and-odometry/index.html) - have the robot understand where it is on the field
