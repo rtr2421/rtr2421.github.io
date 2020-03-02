@@ -2,13 +2,13 @@
 
 ## Upcoming meetings
 
-* Tuesday, Dec. 17, 7pm-9pm, build site
-* Monday, Dec 23, 7-9pm, build site - Anyone who wants to get the test robot driving and reading encoders and optical sensor
-* Saturday, Jan 4 2020 (morning) - Kickoff at 10am, 15000 Graduation Drive Haymarket, VA 20169
-* Saturday, Jan 4 2020 1:30-5:30 pm - Kings Park Library for discussion of the game
-* Monday, Jan 6 7-9pm Post Kick-off Meeting at build site
-* Tuesday, Jan 7 7-9pm Post Kick-off Meeting at build site
-* Wednesday, Jan 8 7-9pm Post Kick-off Meeting at build site
+* Monday, March 2    No Build Meeting
+* Tuesday, March 3, 5pm to 9pm - Come when you can
+* Wednesday, March 4, 7pm to 9pm
+* Thursday, March 5, TBD
+* Friday, March 6, TBD
+* Saturday, March 7, Bethesda Event, 8am to 8pm
+* Sunday, March 8, 8am to 7pm
 
 [Information on kickoff](https://www.firstinspires.org/robotics/frc/kickoff)
 
