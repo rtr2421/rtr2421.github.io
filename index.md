@@ -2,7 +2,7 @@
 
 ## Announcing Robo Fett
 
-{% include youtubePlayer.html id=0lWW4WyV1eo %}
+{% include youtubePlayer.html id="0lWW4WyV1eo" %}
 
 ## Upcoming meetings
 * Tuesday, March 10, 7pm to 9pm - Let's discuss our plans for regionals!
