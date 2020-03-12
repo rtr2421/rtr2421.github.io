@@ -12,7 +12,7 @@
 
 * Feb 28-Mar 1 District Competition Battlefield HS, Haymarket, VA ** 27th seed, WINNERS **
 * Mar 6-8 District Competition Walt Whitman HS, Bethesda, MD ** 1st seed, WINNERS **
-* Apr 2-5 District Finals Hampton Coliseum, Hampton, VA
+* Jun 17-20 District Finals Hampton Coliseum, Hampton, VA ** NEW DATE **
 * Apr 29-May 2 FIRST Championship Cobo Center, Detroit, MI
 
 ## Contact
