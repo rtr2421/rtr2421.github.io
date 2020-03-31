@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/rtr2421/rtr2421.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Development
+
+Run `bundle` and then `bundle exec jekyll server` and you can see the site at http://localhost:4000/
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

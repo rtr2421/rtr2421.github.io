@@ -21,3 +21,5 @@
 
 ## Other stuff
 [Developer page](/developers)
+
+[Joining the team](/welcome)
