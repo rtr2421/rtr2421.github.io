@@ -14,7 +14,7 @@ Teams then compete in two qualification tournaments, and try to advance to a reg
 
 {% include youtubePlayer.html id="7hEXyX84Q7w" %}
 
-A typical match is broken up into three parts. For the first 15-20 seconds of the match the robots run on their own. After that, human players take over and drive the robots around to try and score more points for 2-3 minutes. The last 30 seconds of the game are designated as the endgame, where the robots usually try to clime some part of the playing field.
+A typical match is broken up into three parts. For the first 15-20 seconds of the match the robots run on their own. After that, human players take over and drive the robots around to try and score more points for 2-3 minutes. The last 30 seconds of the game are designated as the endgame, where the robots usually try to climb some part of the playing field.
 
 Matches are played with a 3 robot alliance against another 3 robot alliance. During qualification matches, teams are randomly assigned to alliances such that they will either play with or against all other teams. Teams are then ranked and the top 8 teams are designated as alliance captains. The alliance captains each pick two other teams for the playoffs. All of this takes place over a very busy weekend.
 
