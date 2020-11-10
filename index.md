@@ -5,15 +5,10 @@
 {% include youtubePlayer.html id="0lWW4WyV1eo" %}
 
 ## Upcoming meetings
-* Tuesday, March 10, 7pm to 9pm - Let's discuss our plans for regionals!
 
+We are currently in the pre-season and are looking for new people to join.
 
-## Competition schedule
-
-* Feb 28-Mar 1 District Competition Battlefield HS, Haymarket, VA ** 27th seed, WINNERS **
-* Mar 6-8 District Competition Walt Whitman HS, Bethesda, MD ** 1st seed, WINNERS **
-* Jun 17-20 District Finals Hampton Coliseum, Hampton, VA ** NEW DATE **
-* Apr 29-May 2 FIRST Championship Cobo Center, Detroit, MI
+* Tuesday, November 17 7:30-9:00 at the build site (Springfield Plaza between the old Giant and Sherwin Williams Paint) for an open house
 
 ## Contact
 
