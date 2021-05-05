@@ -6,9 +6,7 @@
 
 ## Upcoming meetings
 
-We are currently in the pre-season and are looking for new people to join.
-
-* Tuesday, December 1 7:30-9:00 at the build site (Springfield Plaza between the old Giant and Sherwin Williams Paint)
+Our season is over. We will be starting back up in the fall, but are planning an open house before school is out. Email [Deanne Mahoney](mailto:first2421@gmail.com) to find out when the open house is, and to be notified when we start back up again.
 
 ## Contact
 
