@@ -1,7 +1,7 @@
 # Resources for developers
 
 ## Getting started
-First make sure you have WPIlib and Vscode installed - [instructions](https://docs.wpilib.org/en/latest/docs/getting-started/getting-started-frc-control-system/wpilib-setup.html)
+First make sure you have WPIlib and Vscode installed - [instructions](https://docs.wpilib.org/en/latest/docs/zero-to-robot/step-2/wpilib-setup.html)
 
 Install [GitHub desktop](https://desktop.github.com/) (even if you want to use git from inside vscode, this is helpful)
 
