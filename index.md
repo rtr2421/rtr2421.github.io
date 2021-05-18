@@ -6,7 +6,9 @@
 
 ## Upcoming meetings
 
-Our season is over. We will be starting back up in the fall, but are planning an open house before school is out. Email [Deanne Mahoney](mailto:first2421@gmail.com) to find out when the open house is, and to be notified when we start back up again.
+* Open House - Wednesday, May 26th, 7-8pm All welcome 7285 Commerce Street, Springfield Plaza (Between the former location of Giant and Sherwin-Williams)
+* Pack Up - Wednesday, May 26th, 8-9pm 
+* Move Out - Sunday, May 30th, 2pm-? 
 
 ## Contact
 
