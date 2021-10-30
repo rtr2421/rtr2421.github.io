@@ -10,9 +10,14 @@ Robo Fett was our 2020 robot. 2021 was a virtual year and we didn't make a video
 
 ## Upcoming meetings
 
-Watch this page for the next meeting, or contact Deanne to get notified. 
-Oct 19, 2021 - Tentative interest meeting/get together
-Nov 6, 2021 - Likely Move-in Date
+Nov 7, 2021 - Move-in Date
+  We will be moving into the build site on the afternoon of November 7. 
+  We will meet at the build site (6422 Springfield Plaza Dr) at 1:30pm. 
+   From there we will then proceed to the Public Storage facility at 7400
+  Alban Station Blvd.  If you have a truck, mini-van, small trailer, or a
+  car that can carry bins, please bring it.  If the weather is really bad,
+  we will try again, probably the next weekend.
+
 
 ## Contact
 
