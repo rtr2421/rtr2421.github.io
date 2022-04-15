@@ -2,21 +2,16 @@
 
 RTR Robotics 2421 is a FIRST Robotics Competition (FRC) team based in Springfield, VA. We are a community team and open to all high school students. We meet at a site in Springfield Plaza, between the former location of Giant and Sherwin-Williams.
 
-## Announcing Robo Fett
+## 2022 results
 
-Robo Fett was our 2020 robot. 2021 was a virtual year and we didn't make a video of it.
+Our 2022 robot, HermEx, made it to the Chesapeake districts finals.
 
-{% include youtubePlayer.html id="0lWW4WyV1eo" %}
+{% include youtubePlayer.html id="nov_3s2geDU" %}
 
+Thanks to Caleb Wilkinson who recorded footage from the event and made us the highlight reel.
 ## Upcoming meetings
 
-Nov 7, 2021 - Move-in Date
-  We will be moving into the build site on the afternoon of November 7. 
-  We will meet at the build site (6422 Springfield Plaza Dr) at 1:30pm. 
-   From there we will then proceed to the Public Storage facility at 7400
-  Alban Station Blvd.  If you have a truck, mini-van, small trailer, or a
-  car that can carry bins, please bring it.  If the weather is really bad,
-  we will try again, probably the next weekend.
+TBA... We will have an open house and time to clean up before we pack everything away until next year.
 
 
 ## Contact
