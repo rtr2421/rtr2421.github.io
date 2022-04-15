@@ -11,8 +11,7 @@ Our 2022 robot, HermEx, made it to the Chesapeake districts finals.
 Thanks to Caleb Wilkinson who recorded footage from the event and made us the highlight reel.
 ## Upcoming meetings
 
-TBA... We will have an open house and time to clean up before we pack everything away until next year.
-
+Tuesday April 19, 7-9pm to discuss year end stuff
 
 ## Contact
 
