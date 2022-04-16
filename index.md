@@ -6,7 +6,7 @@ RTR Robotics 2421 is a FIRST Robotics Competition (FRC) team based in Springfiel
 
 Our 2022 robot, HermEx, made it to the Chesapeake districts finals.
 
-{% include youtubePlayer.html id="nov_3s2geDU" %}
+{% include youtubePlayer.html id="wPJv1-2aY2A" %}
 
 Thanks to Caleb Wilkinson who recorded footage from the event and made us the highlight reel.
 ## Upcoming meetings
