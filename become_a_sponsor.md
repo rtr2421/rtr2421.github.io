@@ -6,9 +6,9 @@ RTR Team Robotics would be grateful for your sponsorship. Sponsors are what keep
 
 People and organizations that sponsor will be getting their names in front of both youth and adults in the area who have a keen interest in STEM. Whether you're looking to reach out to potential customers, or future employees, we have sponsor levels to help.
 
-* *Supporter* ($100-$499) - Logos featured on our robot
+* *Supporter* ($250-$499) - Logos featured on our robot
 * *Collaborator* ($500-$999) - Supporter, plus a logo on our sponsor banner in the pit area
-* *Partner* ($999-$2,99) - Collaborator, plus a logo on our team T-shirt
+* *Partner* ($999-$2,999) - Collaborator, plus a logo on our team T-shirt
 * *Champion* ($2,500+) - Our Champions are announced during competitions, and are registered with FIRST so will show up as an official sponsor.
 
 ## What do we need money for?
