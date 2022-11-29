@@ -1,6 +1,6 @@
 # Springfield Plaza RTR Robotics 2421
 
-RTR Robotics 2421 is a FIRST Robotics Competition (FRC) team based in Springfield, VA. We are a community team and open to all high school students. 
+RTR Robotics 2421 is a [FIRST Robotics Competition (FRC)](https://www.firstinspires.org/robotics/frc) team based in Springfield, VA. We are a community team and open to all high school students. 
 
 We're looking for students who will be in grade 9-12 next year, but anyone is welcome to check us out.
 
