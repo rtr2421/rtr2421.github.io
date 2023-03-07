@@ -6,7 +6,9 @@ We're looking for students who will be in grade 9-12 next year, but anyone is we
 
 # Please help!
 
-Our usual space at Springfield Plaza is unavailable so we have no where to meet this year. If we can't find a spot, we won't be able to participate in the upcoming season. If you know of any places that would be willing to work with us, please email [Deanne Mahoney](mailto:first2421@gmail.com). 
+We're on the lookout for space to work during the off-season and/or next season.
+
+Our usual space at Springfield Plaza is unavailable, and Burke Community Church has graciously allowed us to work there for the season. If you know of any places that would be willing to work with us, please email [Deanne Mahoney](mailto:first2421@gmail.com). 
 
 ## 2022 results
 
