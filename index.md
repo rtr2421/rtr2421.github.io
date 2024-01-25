@@ -21,9 +21,9 @@ Our 2022 robot, HermEx, made it to the Chesapeake districts finals. We placed 25
 {% include youtubePlayer.html id="wPJv1-2aY2A" %}
 
 Thanks to Caleb Wilkinson who recorded footage from the event and made us the highlight reel.
-
+s
 ## Upcoming meetings
-* Saturday, January 27th, 2024: 1-5PM @ Sprinfield United Methodist Church
+* Saturday, January 27th, 2024: 1-5PM @ Springfield United Methodist Church
 
 
 ## Contact
