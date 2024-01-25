@@ -1,6 +1,6 @@
 # Hello, SainSmart
 
-Could you please use the email first2421@gmail.com to contact us?
+Please use the email first2421@gmail.com to contact us
 
 The 2022 game had the robots try and traverse a climbing frame, this is us testing our mechanism.
 ![Testing the climber](/images/pics/climbing_test.jpeg)
