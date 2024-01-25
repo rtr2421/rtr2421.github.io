@@ -2,17 +2,22 @@
 
 RTR Robotics 2421 is a [FIRST Robotics Competition (FRC)](https://www.firstinspires.org/robotics/frc) team based in Springfield, VA. We are a community team and open to all high school students. 
 
-We're looking for students who will be in grade 9-12, but anyone is welcome to check us out.
+We're looking for students who will be in grades 9-12, but anyone is welcome to check us out.
 
 # Please help!
 
-We're on the lookout for space to work during the off-season and/or next season.
+We're on the lookout for space to work during the off-season and/or our next season.
 
 Our usual space at Springfield Plaza is unavailable, and [Springfield United Methodist Church](https://maps.app.goo.gl/gniPeEpstnMLA1E6A) has graciously allowed us to work there for the season. If you know of any places that would be willing to work with us, please email [Deanne Mahoney](mailto:first2421@gmail.com). 
 
+## Upcoming meetings
+* Saturday, January 27th, 2024: 1-5PM @ [Springfield United Methodist Church](https://maps.app.goo.gl/gniPeEpstnMLA1E6A)
+* Tuesday, January 30th, 2024: 7-9PM @ [Springfield United Methodist Church](https://maps.app.goo.gl/gniPeEpstnMLA1E6A)
+* Wednesday, January 31st, 2024: 7-9PM @ [Springfield United Methodist Church](https://maps.app.goo.gl/gniPeEpstnMLA1E6A)
+
 ## 2023 results
 
-Our 2023 robot, Chargerus, made it to the Chesepeake districs finals this season, after a competition win in Haymarket, Virginia. We placed 51st in the district. Good luck to the top teams who advanced to the World Championships!
+Our 2023 robot, Chargerus, made it to the Chesapeake district finals this season, after a competition win in Haymarket, Virginia. We placed 51st in the district. Good luck to the top teams who advanced to the World Championships!
 
 ## 2022 results
 
@@ -21,9 +26,6 @@ Our 2022 robot, HermEx, made it to the Chesapeake districts finals. We placed 25
 {% include youtubePlayer.html id="wPJv1-2aY2A" %}
 
 Thanks to Caleb Wilkinson who recorded footage from the event and made us the highlight reel.
-s
-## Upcoming meetings
-* Saturday, January 27th, 2024: 1-5PM @ Springfield United Methodist Church
 
 
 ## Contact
