@@ -2,9 +2,7 @@
 
 [FIRST Robotics](https://www.firstinspires.org/) is an international league of robotics competitions for various age levels. Our team competes in the FIRST Robotics Competition which is for high school students.
 
-The season's game is revealed on the first weekend in January. The teams have approximately 2 months to build a robot that will play in competitions starting at the end of February. The 2020 game had a Star Wars theme and it was replayed virtually in 2021 because many teams didn't get to compete in 2020:
-
-{% include youtubePlayer.html id="gmiYWTmFRVE" %}
+The season's game is revealed on the first weekend in January. The teams have approximately 2 months to build a robot that will play in competitions starting at the end of February. 
 
 The youth, with help from mentors, design a robot to play in the competition, and then build it. Our 2020 robot looked like this (this is also the room where we built the robot):
 

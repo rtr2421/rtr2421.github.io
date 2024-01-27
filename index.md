@@ -4,6 +4,8 @@ RTR Robotics 2421 is a [FIRST Robotics Competition (FRC)](https://www.firstinspi
 
 We're looking for students who will be in grades 9-12, but anyone is welcome to check us out.
 
+[What is FRC?](/welcome)
+
 # Please help!
 
 We're on the lookout for space to work during the off-season and/or our next season.
