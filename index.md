@@ -4,7 +4,7 @@ RTR Robotics 2421 is a [FIRST Robotics Competition (FRC)](https://www.firstinspi
 
 We're looking for students who will be in grades 9-12, but anyone is welcome to check us out.
 
-[What is FRC?](/welcome)
+[What is FRC?](/what-is-FRC)
 
 # Please help!
 
@@ -27,6 +27,7 @@ Our 2022 robot, HermEx, made it to the Chesapeake districts finals. We placed 25
 
 {% include youtubePlayer.html id="wPJv1-2aY2A" %}
 
+
 Thanks to Caleb Wilkinson who recorded footage from the event and made us the highlight reel.
 
 
@@ -37,4 +38,4 @@ Thanks to Caleb Wilkinson who recorded footage from the event and made us the hi
 ## Other stuff
 [Developer page](/developers)
 
-[Joining the team](/welcome)
+[Joining the team](/what-is-FRC)
