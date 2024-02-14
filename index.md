@@ -14,9 +14,10 @@ Our usual space at Springfield Plaza is unavailable, and [Springfield United Met
 
 ## Upcoming meetings
 
-* Saturday, Febuary 3rd, 2024: 1-5PM @ [Springfield United Methodist Church](https://maps.app.goo.gl/gniPeEpstnMLA1E6A)
-* Tuesday, Febuary 6th, 2024: 7-9PM @ [Springfield United Methodist Church](https://maps.app.goo.gl/gniPeEpstnMLA1E6A)
-* Wednesday, Febuary 7th, 2024: 7-9PM @ [Springfield United Methodist Church](https://maps.app.goo.gl/gniPeEpstnMLA1E6A)
+* Wednesday, Febuary 14th, 2024: 7-9PM @ [Springfield United Methodist Church](https://maps.app.goo.gl/gniPeEpstnMLA1E6A)
+* Saturday, Febuary 17th, 2024: 1-5PM @ [Springfield United Methodist Church](https://maps.app.goo.gl/gniPeEpstnMLA1E6A)
+* Tuesday, Febuary 20th, 2024: 7-9PM @ [Springfield United Methodist Church](https://maps.app.goo.gl/gniPeEpstnMLA1E6A)
+
 
 
 ## 2023 results
