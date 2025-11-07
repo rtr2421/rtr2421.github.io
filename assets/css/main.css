@@ -1855,7 +1855,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: 0 0 0 2px #0470bd;
+			box-shadow: 0 0 0 2px #395ebb;
 		}
 
 	select {
@@ -1952,7 +1952,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #0470bd;
+			box-shadow: 0 0 0 2px #395ebb;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2420,7 +2420,7 @@ input, select, textarea {
 		height: 3.125em;
 		letter-spacing: 0.225em;
 		line-height: 3.125em;
-		max-width: 30em;
+		max-width: 90em;
 		padding: 0 2.75em;
 		text-align: center;
 		text-decoration: none;
@@ -2483,7 +2483,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ed4933;
+			background-color: #395ebb;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2493,7 +2493,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #ef5e4a !important;
+				background-color: #395ebb !important;
 			}
 
 			input[type="submit"].primary:active,
@@ -2501,7 +2501,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #eb341c !important;
+				background-color: #395ebb !important;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2813,7 +2813,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #0470bd;
+			background-color: #395ebb;
 			color: #c8ece9;
 		}
 
@@ -2867,7 +2867,7 @@ input, select, textarea {
 
 				.wrapper.style1 select option {
 					color: #ffffff;
-					background: #0470bd;
+					background: #395ebb;
 				}
 
 			.wrapper.style1 input[type="checkbox"] + label,
@@ -2883,7 +2883,7 @@ input, select, textarea {
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
 			.wrapper.style1 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #0470bd;
+				color: #395ebb;
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
@@ -3347,7 +3347,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #0470bd;
+		background: #395ebb;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
